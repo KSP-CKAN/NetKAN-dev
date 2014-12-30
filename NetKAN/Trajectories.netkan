@@ -1,0 +1,15 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "Trajectories",
+    "$kref"        : "#/ckan/github/fat-lobyte/KSPTrajectories",
+    "x_real_kref"  : "#/ckan/kerbalstuff/238",
+    "$vref"        : "#/ckan/ksp-avc",
+    "author"       : "Youen",
+    "name"         : "Trajectories",
+    "abstract"     : "Displays atmospheric trajectory of the vessel, landing site, trajectory after aerobraking, etc. Compatible with FAR, NEAR, and stock aerodynamic model",
+    "license"      : "MIT",
+	
+	"depends": [
+        { "name": "ModuleManager" }
+    ]
+}
