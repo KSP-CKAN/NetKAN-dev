@@ -9,7 +9,7 @@
     "x_ci_version_base" : "2.4.2.0",
     "conflicts" : [
         { "name" : "MechJeb2" }
-    },
+    ],
     "resources": {
         "x_ci"      : "http://jenkins.mumech.com/job/MechJeb2/",
         "homepage"  : "http://forum.kerbalspaceprogram.com/threads/12384",
