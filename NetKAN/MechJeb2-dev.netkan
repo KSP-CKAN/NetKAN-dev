@@ -1,5 +1,5 @@
 {
-    "spec_version" : 1,
+    "spec_version" : "v1.4",
     "identifier"   : "MechJeb2-dev",
     "$kref"        : "#/ckan/jenkins/MechJeb2",
     "name"         : "MechJeb 2",
@@ -9,6 +9,12 @@
     "x_ci_version_base" : "2.4.2.0",
     "conflicts" : [
         { "name" : "MechJeb2" }
+    ],
+    "install": [
+        {
+            "find": "MechJeb2",
+            "install_to": "GameData"
+        }
     ],
     "resources": {
         "x_ci"      : "http://jenkins.mumech.com/job/MechJeb2/",
