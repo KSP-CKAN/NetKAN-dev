@@ -6,6 +6,7 @@
     "abstract"     : "Anatid Robotics and Multiversal Mechatronics proudly presents the first flight assistant autopilot: MechJeb",
     "author"       : "sarbian",
     "license"      : "GPL-3.0",
+    "x_ci_version_base" : "2.4.2.0",
     "resources": {
         "x_ci"      : "http://jenkins.mumech.com/job/MechJeb2/",
         "homepage"  : "http://forum.kerbalspaceprogram.com/threads/12384",
