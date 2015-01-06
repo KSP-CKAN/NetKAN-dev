@@ -20,5 +20,12 @@
 	
     "suggests": [
         { "name": "RasterPropMonitor" }
+    ],
+    
+    "install" : [
+        {
+            "file"       : "SCANsat",
+            "install_to" : "GameData"
+        }
     ]
 }
