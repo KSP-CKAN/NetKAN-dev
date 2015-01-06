@@ -1,6 +1,6 @@
 {
     "spec_version" : 1,
-    "identifier"   : "SCANsat",
+    "identifier"   : "SCANsat-dev",
     "$kref"        : "#/ckan/github/S-C-A-N/SCANsat",
     "x_real_kref"  : "#/ckan/kerbalstuff/249",
     "x_bad_vref"   : "#/ckan/ksp-avc",
@@ -10,6 +10,10 @@
     "abstract"     : "SCANsat: Real Scanning, Real Science, Warp Speed!",
     "license"      : "restricted",
 
+    "conflicts" : [
+        { "name" : "SCANsat" }
+    ],
+    
     "recommends": [
         { "name": "Toolbar" }
     ],
