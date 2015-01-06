@@ -1,5 +1,5 @@
 {
-    "spec_version" : 1,
+    "spec_version" : "v1.4",
     "identifier"   : "SCANsat-dev",
     "$kref"        : "#/ckan/github/S-C-A-N/SCANsat",
     "x_real_kref"  : "#/ckan/kerbalstuff/249",
@@ -24,7 +24,7 @@
     
     "install" : [
         {
-            "file"       : "SCANsat",
+            "find"       : "SCANsat",
             "install_to" : "GameData"
         }
     ]
