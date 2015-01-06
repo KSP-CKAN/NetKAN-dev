@@ -13,7 +13,7 @@
         { "name" : "ModuleManager" }
     ],
     "resources" : {
-        "x_ci"           : "http://ksp.sarbian.com/jenkins/job/ModuleManager/",
+        "x_ci"           : "https://ksp.sarbian.com/jenkins/job/ModuleManager/",
         "homepage"       : "http://forum.kerbalspaceprogram.com/threads/55219",
         "repository"     : "https://github.com/sarbian/ModuleManager"
     },
