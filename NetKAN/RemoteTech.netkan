@@ -1,6 +1,6 @@
 {
     "spec_version" : 1,
-    "identifier"   : "RemoteTech",
+    "identifier"   : "RemoteTech-dev",
     "$kref"        : "#/ckan/github/RemoteTechnologiesGroup/RemoteTech",
     "name"         : "RemoteTech - DEV RELEASE",
     "abstract"     : "RemoteTech allows you to construct vast relay networks of communication satellites and remotely controlled unmanned vehicles. Your unmanned vessels require an uplink to a command station to be controlled. This adds a new layer of difficulty that compensates for the lack of live crew members.",
@@ -12,6 +12,9 @@
         "bugtracker": "https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
         "manual"    : "http://remotetechnologiesgroup.github.io/RemoteTech/"
     },
+    "conflicts" : [
+        { "name" : "RemoteTech" }
+    ],
     "depends": [
         {
             "name": "ModuleManager",
