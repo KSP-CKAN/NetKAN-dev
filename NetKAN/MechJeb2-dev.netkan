@@ -17,7 +17,7 @@
         }
     ],
     "resources": {
-        "x_ci"      : "http://jenkins.mumech.com/job/MechJeb2/",
+        "x_ci"      : "https://ksp.sarbian.com/jenkins/job/MechJeb2-Dev/",
         "homepage"  : "http://forum.kerbalspaceprogram.com/threads/12384",
         "repository": "https://github.com/MuMech/MechJeb2/"
     }
