@@ -1,0 +1,24 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "SCANsat-Notebook-dev",
+    "$kref"        : "#/ckan/jenkins/Hakan-SCANsat-Notebook",
+    "name"         : "SCANsat Notebook - DEV RELEASE",
+    "abstract"     : "A Notebook for your SCANsat scans",
+    "author"       : "hakan",
+    "license"      : "Apache-2.0",
+    "x_ci_version_base" : "0.5.0",
+    "conflicts" : [
+        { "name" : "SCANsat-Notebook" }
+    ],
+    "install": [
+        {
+            "find": "SCANsat-Notebook",
+            "install_to": "GameData"
+        }
+    ],
+    "resources": {
+        "x_ci"      : "https://ksp.sarbian.com/jenkins/job/Hakan-SCANsat-Notebook",
+        "homepage"  : "http://forum.kerbalspaceprogram.com/threads/DO-NOT-KNOW-YET",
+        "repository": "https://github.com/entchen/SCANsat-Notebook"
+    }
+}
