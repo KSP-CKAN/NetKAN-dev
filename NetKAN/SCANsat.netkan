@@ -3,7 +3,7 @@
     "identifier"   : "SCANsat",
     "$kref"        : "#/ckan/github/S-C-A-N/SCANsat",
     "x_real_kref"  : "#/ckan/kerbalstuff/249",
-    "x_bad_vref"   : "#/ckan/ksp-avc",
+    "$vref"        : "#/ckan/ksp-avc",
     "ksp_version"  : "0.90",
     "author"       : "DMagic",
     "name"         : "SCANsat",
