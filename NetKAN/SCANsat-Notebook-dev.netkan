@@ -2,7 +2,7 @@
     "spec_version" : 1,
     "identifier"   : "SCANsat-Notebook-dev",
     "$kref"        : "#/ckan/jenkins/Hakan-SCANsat-Notebook",
-    "$vref"        : "#/ckan/ksp-avc",
+    "x_broken_vref" : "#/ckan/ksp-avc",
     "name"         : "SCANsat Notebook - DEV RELEASE",
     "abstract"     : "A Notebook for your SCANsat scans",
     "author"       : "hakan",
