@@ -8,7 +8,7 @@
     "author"         : [ "ialdabaoth", "Sarbian" ],
     "release_status" : "stable",
     "ksp_version"    : "0.90",
-    "x_ci_version_base" : "2.5.6",
+    "x_ci_version_base" : "2.5.9",
     "conflicts" : [
         { "name" : "ModuleManager" }
     ],
