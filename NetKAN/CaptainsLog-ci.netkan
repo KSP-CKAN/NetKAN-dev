@@ -6,7 +6,7 @@
     "abstract"     : "A Notebook for your SCANsat scans",
     "author"       : "hakan",
     "license"      : "Apache-2.0",
-    "x_ci_version_base" : "0.5.0",
+    "x_ci_version_base" : "0.1.0",
     "conflicts" : [
         { "name" : "CaptainsLog" }
     ],
