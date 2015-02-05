@@ -2,7 +2,10 @@
     "spec_version" : 1,
     "identifier"   : "CaptainsLog-dev",
     "$kref"        : "#/ckan/jenkins/Hakan-CaptainsLog",
-    "$vref"        : "#/ckan/ksp-avc",
+    "$vref"        : [
+        "#/ckan/ksp-avc",
+        "#/ckan/ksp-avc"
+    ],
     "$second_vref" : "#/ckan/kerbalstuff/561",
     "name"         : "Captain's Log - DEV RELEASE",
     "abstract"     : "A Notebook for your SCANsat scans",
