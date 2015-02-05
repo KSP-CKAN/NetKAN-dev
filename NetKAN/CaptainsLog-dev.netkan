@@ -4,9 +4,8 @@
     "$kref"        : "#/ckan/jenkins/Hakan-CaptainsLog",
     "$vref"        : [
         "#/ckan/ksp-avc",
-        "#/ckan/ksp-avc"
+        "#/ckan/kerbalstuff/561"
     ],
-    "$second_vref" : "#/ckan/kerbalstuff/561",
     "name"         : "Captain's Log - DEV RELEASE",
     "abstract"     : "A Notebook for your SCANsat scans",
     "author"       : "hakan",
