@@ -2,18 +2,16 @@
     "spec_version" : 1,
     "identifier"   : "SCANsat",
     "$kref"        : "#/ckan/github/S-C-A-N/SCANsat",
-    "x_real_kref"  : "#/ckan/kerbalstuff/249",
-    "$vref"        : "#/ckan/ksp-avc",
-    "ksp_version"  : "0.90",
-    "author"       : "DMagic",
-    "name"         : "SCANsat",
-    "abstract"     : "SCANsat: Real Scanning, Real Science, Warp Speed!",
+    "$vref"        : [
+        "#/ckan/ksp-avc",
+        "#/ckan/kerbalstuff/249"
+    ],
     "license"      : "restricted",
 
     "recommends": [
         { "name": "Toolbar" }
     ],
-	
+
     "suggests": [
         { "name": "RasterPropMonitor" }
     ]
