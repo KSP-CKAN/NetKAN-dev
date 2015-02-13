@@ -1,6 +1,7 @@
 {
     "spec_version" : "v1.4",
     "identifier"   : "SCANsat-dev",
+    "name"         : "SCANsat - DEV RELEASE",
     "$kref"        : "#/ckan/github/S-C-A-N/SCANsat",
     "$vref"        : [
         "#/ckan/ksp-avc",
