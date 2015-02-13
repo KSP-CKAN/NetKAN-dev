@@ -1,6 +1,6 @@
 {
-    "spec_version" : 1,
-    "identifier"   : "SCANsat",
+    "spec_version" : "v1.4",
+    "identifier"   : "SCANsat-dev",
     "$kref"        : "#/ckan/github/S-C-A-N/SCANsat",
     "$vref"        : [
         "#/ckan/ksp-avc",
@@ -8,11 +8,26 @@
     ],
     "license"      : "restricted",
 
+    "provides" : [
+        "SCANsat"
+    ],
+
+    "conflicts" : [
+        { "name" : "SCANsat" }
+    ],
+    
     "recommends": [
         { "name": "Toolbar" }
     ],
 
     "suggests": [
         { "name": "RasterPropMonitor" }
+    ],
+    
+    "install" : [
+        {
+            "find"       : "SCANsat",
+            "install_to" : "GameData"
+        }
     ]
 }
