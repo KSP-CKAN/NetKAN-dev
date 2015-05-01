@@ -1,7 +1,7 @@
 {
     "spec_version" : "v1.4",
     "identifier"   : "MechJeb2-dev",
-    "ksp_version"  : "1.0.0",
+    "ksp_version"  : "1.0",
     "$kref"        : "#/ckan/jenkins/MechJeb2",
     "name"         : "MechJeb 2 - DEV RELEASE",
     "abstract"     : "Anatid Robotics and Multiversal Mechatronics proudly presents the first flight assistant autopilot: MechJeb",
