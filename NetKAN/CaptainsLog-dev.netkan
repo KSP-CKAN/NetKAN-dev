@@ -21,5 +21,6 @@
         "x_ci"      : "https://ksp.sarbian.com/jenkins/job/Hakan-CaptainsLog",
         "x_homepage"  : "http://forum.kerbalspaceprogram.com/threads/DO-NOT-KNOW-YET",
         "repository": "https://github.com/entchen/CaptainsLog"
-    }
+    },
+    "x_netkan_license_ok": true
 }
