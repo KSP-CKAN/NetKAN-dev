@@ -12,6 +12,7 @@
         "bugtracker": "https://github.com/RemoteTechnologiesGroup/RemoteTech/issues",
         "manual"    : "http://remotetechnologiesgroup.github.io/RemoteTech/"
     },
+    "provides"  : [ "RemoteTech" ],
     "conflicts" : [
         { "name" : "RemoteTech" }
     ],
