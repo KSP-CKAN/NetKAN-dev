@@ -9,10 +9,6 @@
     "license"      : "GPL-3.0",
     "x_ci_version_base" : "2.5.1.0",
 
-    "provides" : [
-        "MechJeb2"
-    ],
-
     "conflicts" : [
         { "name" : "MechJeb2" }
     ],
